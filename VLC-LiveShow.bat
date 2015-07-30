@@ -3,11 +3,15 @@
 title VLC LiveShow
 
 REM ------------ Metadata -------------
+REM -----------------------------------
 REM VLC LiveShow is a batch file used to launch VLC, programmed to output to secondary monitor.
 REM One can optionally pass files desired to launch alongside VLC, eg. by "drag-and-drop"-ing such files onto this script in Windows Explorer.
-REM
+
 REM VLC LiveShow is crafted by Asbjørn Apeland.
 
+
+REM ------------ Copyright ------------
+REM -----------------------------------
 REM Copyright (C) 2011-toyear  Free Software Foundation, Inc
 REM 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
 REM
