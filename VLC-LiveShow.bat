@@ -12,8 +12,7 @@ REM VLC LiveShow is crafted by Asbjørn Apeland.
 
 REM ------------ Copyright ------------
 REM -----------------------------------
-REM Copyright (C) 2011-toyear  Free Software Foundation, Inc
-REM 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA
+REM Copyright (C) 2011-toyear  aude
 REM
 REM This program is free software: you can redistribute it and/or modify
 REM it under the terms of the GNU General Public License as published by
